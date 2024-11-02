@@ -18,10 +18,10 @@ const onMouseOut = (event) => {
 class Header extends Component {
   render() {
     const theme = this.props.theme;
-    const link = settings.isSplash ? "/splash" : "home";
+    const link = "home";
     return (
       <Fade top duration={1000} distance="20px">
-        <SeoHeader />
+        <SeoHeader />        
         <div>
           <header className="header">
             <NavLink to={link} tag={Link} className="logo">

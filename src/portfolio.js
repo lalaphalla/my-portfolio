@@ -135,7 +135,7 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
+        "⚡ Building responsive website front end using React-Redux and modern look",
         "⚡ Creating application backend in Node & Express",
         "⚡ Using Sequlize ORM to connect MySQL, MongoDB & Postgres",
       ],
